@@ -1,3 +1,7 @@
+Forked from https://github.com/JanVanRyswyck/awesome-talks to keep track of which talks I've watched. 
+
+Viewed items are marked with: ***(Watched)***
+
 #Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -119,7 +123,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Cognitive Development
 * [A Lecture on Creativity](https://vimeo.com/183363832) by **John Cleese** [36:39]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
-* [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
+* ***(Watched)*** [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** [35:26]
 * [Stop Treading Water - Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750) by **Edward Kmett** [40:59]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
